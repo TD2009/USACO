@@ -1,5 +1,5 @@
 // 27:02 (Spent lots of time on the HashMap)
-
+// December 2016 Bronze #2
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
