@@ -1,5 +1,3 @@
-// 27:02 (Spent lots of time on the HashMap)
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
