@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.StringTokenizer;
 
-public class cowGymnastics {
+public class CowGymnastics {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new FileReader("gymnastics.in"));
         StringTokenizer st = new StringTokenizer(qwerty.readLine());
