@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.StringTokenizer;
 import java.io.IOException;
 
-public class tamingTheHerd {
+public class TamingTheHerd {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new FileReader("taming.in"));
         StringTokenizer st = new StringTokenizer(qwerty.readLine());
@@ -36,8 +36,8 @@ public class tamingTheHerd {
                     if (i - records[i] < 0) {
                         pw.println(-1);
                         works = false;
-                    } else { // maybe the issue is if that it goes below 0 or smth
-                        for (int j = 1; j <= records[i]; j++) { // THIS IS THE ISSUE
+                    } else {
+                        for (int j = 1; j <= records[i]; j++) {
                             if (i - j < 0) {
                                 works = false;
                                 pw.println(-1);
