@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.StringTokenizer;
 import java.util.HashSet;
 
-public class whereAmI {
+public class WhereAmI {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new FileReader("whereami.in"));
         StringTokenizer st = new StringTokenizer(qwerty.readLine());
