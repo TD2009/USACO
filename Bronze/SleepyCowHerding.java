@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class sleepyCowHerding {
+public class SleepyCowHerding {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new FileReader("herding.in"));
         StringTokenizer st = new StringTokenizer(qwerty.readLine());
