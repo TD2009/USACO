@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
-public class blockGame {
+public class BlockGame {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new FileReader("blocks.in"));
         StringTokenizer st = new StringTokenizer(qwerty.readLine());
