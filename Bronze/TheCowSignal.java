@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.StringTokenizer;
 
-public class theCowSignal {
+public class TheCowSignal {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new FileReader("cowsignal.in"));
         StringTokenizer st = new StringTokenizer(qwerty.readLine());
