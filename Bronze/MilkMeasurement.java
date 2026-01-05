@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
-public class milkMeasurement {
+public class MilkMeasurement {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new FileReader("measurement.in"));
         StringTokenizer st = new StringTokenizer(qwerty.readLine());
