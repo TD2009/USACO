@@ -13,7 +13,6 @@ public class theBucketList {
         int buckets;
         boolean valid = true;
 
-        // Constructor
         Cow (int start, int end, int buckets) {
             this.start = start;
             this.end = end;
