@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.StringTokenizer;
 
-public class WDTCCTR3 {
+public class Wdtcctr3 {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new FileReader("cowqueue.in"));
         StringTokenizer st = new StringTokenizer(qwerty.readLine());
