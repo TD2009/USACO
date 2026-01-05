@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.StringTokenizer;
 
-public class mixingMilk {
+public class MixingMilk {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new FileReader("mixmilk.in"));
         //BufferedReader qwerty = new BufferedReader(new InputStreamReader(System.in));
