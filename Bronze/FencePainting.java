@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.StringTokenizer;
 import java.util.Arrays;
 
-public class fencePainting {
+public class FencePainting {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new FileReader("paint.in"));
         StringTokenizer st = new StringTokenizer(qwerty.readLine());
