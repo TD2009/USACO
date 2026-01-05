@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.StringTokenizer;
 
-public class circularBarn {
+public class CircularBarn {
     public static void main(String[] args) throws IOException{
         BufferedReader qwerty = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(qwerty.readLine());
